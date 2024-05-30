@@ -1,5 +1,6 @@
 # 💫 About Me:
-Après 1 an en tant que Technicienne de laboratoire dans le milieu médical, je souhaite me reconvertir dans le domaine du développement web. Actuellement en formation à la Wild Code School, je recherche une alternance de 15 mois à partir de septembre 2024.
+Après avoir obtenu un Master en Neurosciences et avoir travaillé quelques années en tant que technicienne de laboratoire dans le milieu médical, je souhaite me reconvertir dans le domaine du développement web.
+Actuellement en formation à la Wild Code School, je recherche une alternance de 15 mois à partir de septembre 2024.
 
 
 ## 🌐 Socials:
