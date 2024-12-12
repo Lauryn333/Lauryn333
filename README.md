@@ -1,6 +1,6 @@
 # 💫 About Me:
 Après avoir obtenu un Master en Neurosciences et avoir travaillé quelques années en tant que technicienne de laboratoire dans le milieu médical, je souhaite me reconvertir dans le domaine du développement web.
-Suite à une formation à la Wild Code School, je recherche une alternance de 15 mois à partir de septembre 2024.
+Suite à une formation à la Wild Code School et à l'obtention du diplôme Développeur Web et Web Mobile (Bac +2), je recherche une alternance de 15 mois à partir de février 2025.
 
 
 ## 🌐 Socials:
